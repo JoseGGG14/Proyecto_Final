@@ -1,0 +1,23 @@
+body{
+	background-color: #E1D10C;
+	text-align: center;
+}
+#hroles{
+	border-top: 5px solid #0CDEE1;
+	text-align: center;
+	background-color: black;
+	font-size: 40px;
+	color: white;
+}
+#hlistar{
+	text-align: center;
+	font-size: 30px;
+}
+#pie{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	border-top: 5px solid #0CDEE1;
+	background-color: black;
+	color: white;
+}
